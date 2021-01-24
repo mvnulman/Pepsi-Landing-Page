@@ -17,7 +17,7 @@ This project was developed using the following technologies:
 
 ## 💻 Project
 
-The personal development project of the Landing Page of the Pepsi brand, was done exclusively for educational purposes and to demonstrate practical knowledge in the area of Frond End development.
+This personal project developed exclusively for portfolio purposes, and to demonstrate practical knowledge in the Front End development area.
 
 ## 🔖 Layout
 
